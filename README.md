@@ -5,15 +5,15 @@
 
 
 <img align="left" height="190" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif"/>
-<span align="left"> 👨‍💻 Hi, I'm <strong>Nitish Kumar</strong></span><br/>
-<span align="left">🎖️ Flutter Developer </span><br/>
-<span align="left">🌏 Full Stack Web Developer ( MERN, Dot net )</span>
+<span align="left">  👨‍💻 Hi, I'm <strong>Nitish Kumar</strong></span><br/>
+<span align="left">  🎖️ Flutter Developer </span><br/>
+<span align="left">  🌏 Full Stack Web Developer ( MERN, Dot net )</span>
 <br/>
-<span align="left">❤️ 3D Animation Maker ( Blender )</span>
+<span align="left">  ❤️ 3D Animation Maker ( Blender )</span>
 <br/>
-<span align="left">🛠️ UI/UX Design ( Figma, Adobe DX, Canva)</span>
+<span align="left">  🛠️ UI/UX Design ( Figma, Adobe DX, Canva)</span>
 <br/>
-<span align="left">📽️ Content Creator ( Youtube , Wordpress )</span>
+<span align="left">  📽️ Content Creator ( Youtube , Wordpress )</span>
 <br/>
 <br/>
 
