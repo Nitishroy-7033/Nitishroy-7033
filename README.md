@@ -1,5 +1,5 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Nitish Kumar</strong></samp></h2>
-<h3 align='center'><strong><a href="https://nitishroy-7033.github.io/" target="_blank"> Portfolio 🌐</a> <a href="https://devhq.in" target="_blank"> Devhq.in🌏</a>   <a href="https://www.youtube.com/@flutterhero" target="_blank"> Youtube 📽️</a> </strong></h3>
+<h3 align='center'><strong><a href="https://mrnitishkumar.netlify.app/" target="_blank"> Portfolio 🌐</a> <a href="https://devhq.in" target="_blank"> Devhq.in🌏</a>   <a href="https://www.youtube.com/@flutterhero" target="_blank"> Youtube 📽️</a> </strong></h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Nitish%20Kumar-blue?logo=Linkedin&logoColor=blue&labelColor=black) ](https://www.linkedin.com/in/ahmad-alsawalqeh/)[![Mail](https://img.shields.io/badge/Gmail-Nitishr833@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:Nitishr833@hotmail.com) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCbgU4H2YQVZUqQmhZXKpfQ)
 
